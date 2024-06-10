@@ -5,7 +5,7 @@ memory, and then determine how many of the data have a value greater than 2Dh an
 The number of data that meet the specified condition to be shown on the displays in decimal
 format. The program should be located at address FF100h in the EPROM.
 
-![Screenshot (1)](https://github.com/tamaraatanasova/8086-exercise1/blob/main/8086zad1.png)
+![Screenshot (1)](https://github.com/ilievatijana/8086-exercise1/blob/main/8086zad1.png)
 
 [Tijana Ilieva ](https://github.com/ilievatjana)
 
